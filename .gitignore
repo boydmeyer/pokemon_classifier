@@ -1,0 +1,4 @@
+# Ignore image folders and their contents
+images/
+
+images.zip
